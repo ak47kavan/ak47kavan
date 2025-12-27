@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m AK Kavan... that's more than enough..
+🔭 A K Kavan.. 
 
 
 ## 🌐 Socials:
