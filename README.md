@@ -54,7 +54,7 @@ Secure, scalable application with REST APIs and role-based access
 
 ## Links
 - Portfolio → https://ak-dev-34ce1.web.app  
-- LinkedIn → https://www.linkedin.com/in/a%E1%B4%8B-%E1%B4%8B%E1%B4%80%E1%B4%A0%E1%B4%80%C9%B4/  
+- LinkedIn → https://www.linkedin.com/in/akkavan/  
 - Email → kavankulal2254@gmail.com  
 
 ---
