@@ -1,29 +1,71 @@
-# 💫 About Me:
-🔭 A K Kavan.. 
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a%E1%B4%8B-%E1%B4%8B%E1%B4%80%E1%B4%A0%E1%B4%80%C9%B4/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavankulal2254@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ak-dev-34ce1.web.app)![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ak47kavan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ak47kavan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ak47kavan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ak47kavan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Pixel-style minimal header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=A+K+Kavan;Software+Developer;AI+%7C+Computer+Vision+%7C+Deep+Learning+%7C+Flutter" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ak47kavan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ak47kavan/ak47kavan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ak47kavan/ak47kavan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ak47kavan/ak47kavan/output/github-snake.svg">
-</picture>
+## About
+Software Developer with a focus on **AI/ML, Computer Vision, and Deep Learning**, along with experience in **Flutter-based application development**.
+
+I build systems that connect **intelligent models with real-world applications**, emphasizing performance, scalability, and practical deployment.
+
+---
+
+## Core Areas
+- Artificial Intelligence & Machine Learning  
+- Computer Vision & Deep Learning  
+- Mobile App Development (Flutter)  
+- Backend & System Design  
+
+---
+
+## Selected Work
+
+**AETHER-1**  
+Digital Twin framework for CubeSat telemetry with AI-driven disaster detection  
+
+**Federated Learning for LEO Systems**  
+Systematic study of algorithm trade-offs in distributed environments  
+
+**Full-Stack Management System**  
+Secure, scalable application with REST APIs and role-based access  
+
+---
+
+## Tech Stack
+
+**Languages**  
+`Python` `Java` `JavaScript` `Dart` `C++`
+
+**AI / ML**  
+`TensorFlow` `PyTorch` `OpenCV`  
+
+**App & Backend**  
+`Flutter` `FastAPI`
+
+**Databases**  
+`PostgreSQL` `MongoDB`  
+
+**Cloud & Tools**  
+`AWS` `Google Cloud` `Firebase` `Git`  
+
+---
+
+## Links
+- Portfolio → https://ak-dev-34ce1.web.app  
+- LinkedIn → https://www.linkedin.com/in/a%E1%B4%8B-%E1%B4%8B%E1%B4%80%E1%B4%A0%E1%B4%80%C9%B4/  
+- Email → kavankulal2254@gmail.com  
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ak47kavan&show_icons=true&hide_border=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak47kavan&layout=compact&hide_border=true&theme=github_dark" height="150"/>
+</p>
+
+---
+
+## Philosophy
+> Build intelligent systems that are not just accurate — but usable, efficient, and deployable.
