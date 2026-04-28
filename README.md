@@ -42,7 +42,7 @@ Secure, scalable application with REST APIs and role-based access
 `TensorFlow` `PyTorch` `OpenCV`  
 
 **App & Backend**  
-`Flutter` `FastAPI`
+`Flutter`
 
 **Databases**  
 `PostgreSQL` `MongoDB`  
