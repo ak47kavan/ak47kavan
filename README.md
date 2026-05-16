@@ -82,7 +82,7 @@ class Human:
 
 ```yaml
 machine:
-  os: arch linux + windows
+  os: arch linux + windows + Mac
   editor: vscode
   fuel: coffee
   philosophy:
