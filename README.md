@@ -1,71 +1,108 @@
-<!-- Pixel-style minimal header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=A+K+Kavan;Software+Developer;AI+%7C+Computer+Vision+%7C+Deep+Learning+%7C+Flutter" />
-</p>
+<div align="center">
+
+```text
+██████████████████████████████████████████████████████
+
+            A K   K A V A N
+
+      "currently reverse engineering myself"
+
+██████████████████████████████████████████████████████
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1800&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=booting+brain...;loading+curiosity...;connecting+random+ideas...;AI+%2B+systems+%2B+vision+%2B+chaos;status+%3A+probably+building+something+unnecessary" />
+
+</div>
 
 ---
 
-## About
-Software Developer with a focus on **AI/ML, Computer Vision, and Deep Learning**, along with experience in **Flutter-based application development**.
+```bash
+$ sudo systemctl status akkavan
 
-I build systems that connect **intelligent models with real-world applications**, emphasizing performance, scalability, and practical deployment.
-
----
-
-## Core Areas
-- Artificial Intelligence & Machine Learning  
-- Computer Vision & Deep Learning  
-- Mobile App Development (Flutter)  
-- Backend & System Design  
-
----
-
-## Selected Work
-
-**AETHER-1**  
-Digital Twin framework for CubeSat telemetry with AI-driven disaster detection  
-
-**Federated Learning for LEO Systems**  
-Systematic study of algorithm trade-offs in distributed environments  
-
-**Full-Stack Management System**  
-Secure, scalable application with REST APIs and role-based access  
+● akkavan.service - experimental human instance
+     Loaded: loaded (/brain/core)
+     Active: active (running) since 2003
+       Docs: none
+      Tasks: too many
+     Memory: unstable
+        CPU: overclocked
+```
 
 ---
 
-## Tech Stack
+```python
+class Human:
+    def __init__(self):
+        self.name = "A K Kavan"
+        self.languages = [
+            "Python", "Java", "Dart",
+            "C++", "JavaScript"
+        ]
 
-**Languages**  
-`Python` `Java` `JavaScript` `Dart` `C++`
+        self.interests = [
+            "AI",
+            "Computer Vision",
+            "Distributed Systems",
+            "Flutter",
+            "Low Level Stuff",
+            "Things I Probably Shouldn't Touch"
+        ]
 
-**AI / ML**  
-`TensorFlow` `PyTorch` `OpenCV`  
-
-**App & Backend**  
-`Flutter`
-
-**Databases**  
-`PostgreSQL` `MongoDB`  
-
-**Cloud & Tools**  
-`AWS` `Google Cloud` `Firebase` `Git`  
-
----
-
-## Links
-- Portfolio → https://ak-dev-34ce1.web.app  
-- LinkedIn → https://www.linkedin.com/in/akkavan/  
-- Email → kavankulal2254@gmail.com  
-
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak47kavan&show_icons=true&hide_border=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak47kavan&layout=compact&hide_border=true&theme=github_dark" height="150"/>
-</p>
+    def current_state(self):
+        while True:
+            learn()
+            build()
+            break_everything()
+            rebuild_better()
+```
 
 ---
 
-## Philosophy
-> Build intelligent systems that are not just accurate — but usable, efficient, and deployable.
+```txt
+[ memory fragments ]
+
+> built apps
+> trained models
+> touched linux once and never recovered
+> trying to understand computers from electricity to AI
+> obsessed with systems that should not logically work
+```
+
+---
+
+```diff
++ likes clean architecture
++ likes ugly experiments
++ ships random midnight ideas
+- afraid of terminal
+- normal portfolio designs
+```
+
+---
+
+```yaml
+machine:
+  os: arch linux + windows
+  editor: vscode
+  fuel: coffee
+  philosophy:
+    - if it sounds impossible -> build it
+    - if it breaks -> learn from it
+    - if it works first try -> suspicious
+```
+
+---
+
+<div align="center">
+
+```txt
+signal links
+```
+
+[portfolio](https://ak-dev-34ce1.web.app)  •  [linkedin](https://www.linkedin.com/in/akkavan/)  •  [mail](mailto:kavankulal2254@gmail.com)
+
+```text
+end transmission...
+```
+
+</div>
