@@ -1,14 +1,14 @@
 <div align="center">
 
-```text
-██████████████████████████████████████████████████████
+                                                                                           ```text
+                                                                      ██████████████████████████████████████████████████████
 
-            A K   K A V A N
+                                                                                          A K   K A V A N
 
-      "currently reverse engineering myself"
+                                                                           "currently reverse engineering myself"
 
-██████████████████████████████████████████████████████
-```
+                                                                      ██████████████████████████████████████████████████████
+                                                                                            ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1800&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=booting+brain...;loading+curiosity...;connecting+random+ideas...;AI+%2B+systems+%2B+vision+%2B+chaos;status+%3A+probably+building+something+unnecessary" />
 
